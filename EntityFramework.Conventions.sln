@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Conventions", "src\EntityFramework.Conventions\EntityFramework.Conventions.csproj", "{533A4F74-C964-4FC6-8E36-6FF8B5568548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Conventions.Tests", "src\EntityFramework.Conventions.Tests\EntityFramework.Conventions.Tests.csproj", "{D422E71D-7C96-4395-BB4F-F6896E7111CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533A4F74-C964-4FC6-8E36-6FF8B5568548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533A4F74-C964-4FC6-8E36-6FF8B5568548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533A4F74-C964-4FC6-8E36-6FF8B5568548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533A4F74-C964-4FC6-8E36-6FF8B5568548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D422E71D-7C96-4395-BB4F-F6896E7111CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D422E71D-7C96-4395-BB4F-F6896E7111CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D422E71D-7C96-4395-BB4F-F6896E7111CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D422E71D-7C96-4395-BB4F-F6896E7111CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
