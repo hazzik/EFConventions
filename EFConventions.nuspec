@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>1.0.0</version>
+    <authors>hazzik</authors>
+    <owners>hazzik</owners>
+    <iconUrl>http://github.com/hazzik/EFConventions</iconUrl>
+    <dependencies>
+      <dependency id="EntityFramework" version="4.3" />
+    </dependencies>
+    <id>EFConventions</id>
+    <title>EntityFramework.Conventions</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds ability to use custom conventions with Entity Framework Code First</description>
+    <tags>EntityFramework, CodeFirst</tags>
+  </metadata>
+  <files>
+    <file src="EntityFramework.Conventions.dll" target="lib\EntityFramework.Conventions.dll" />
+    <file src="EntityFramework.Conventions.pdb" target="lib\EntityFramework.Conventions.pdb" />
+  </files>
+</package>
