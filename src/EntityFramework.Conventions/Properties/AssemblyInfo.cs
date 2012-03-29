@@ -4,4 +4,4 @@ using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("EntityFramework.Conventions")]
 [assembly: Guid("6058cca6-928f-42f6-86d9-55854548a1a5")]
-[assembly: InternalsVisibleTo("EntityFramework.Conventions.Tests")]
+[assembly: InternalsVisibleTo("EntityFramework.Conventions.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001004d2b84f68bfec37e5a9f6c29986906c76368fedb0ca5c2c9175cb9b5905ee3cd8cb2627761110b28dcd84c86a19d0a0554cc3a12605158b9e430610fddee5f3ece0e8444949fe486a0d118ef8fa48703c8778a45ad21570a2ed1436b01f9d6f17f1e8e57149492d14e9d5349a07ee8e860df91c57475af98790bdfa492b930bf")]
